@@ -250,7 +250,7 @@
   "footerblocks_see": "See",
   "security_playbutton": "On Security",
   "security_01_headline": "Imperfect Systems",
-  "security_01_text": "In peer-to-peer financial systems, Proof-of-Work solved the double spending problem. It has proved its worth for more than a decade, but is energy intensive and susceptible to majority attacks. Proof-of-Stake was developed to avoid those issues through alignment of interests, but it came with its own shortcomings, most notably the nothing at stake problem.",
+  "security_01_text": "In peer-to-peer financial systems, Proof-of-Work (PoW) solved the double spending problem. It has proved its worth for more than a decade, but is energy intensive and susceptible to majority attacks. Proof-of-Stake (PoS) was developed to avoid those issues through alignment of interests, but it came with its own shortcomings, most notably the nothing-at-stake problem.",
   "security_02_headline": "Decred’s Hybrid Solution",
   "security_02_text": "Decred employs a combination of PoW and PoS to yield the best of both systems, mitigate their weaknesses, and deliver a layered consensus mechanism that makes it far more secure than other cryptocurrencies. Decred uses conventional PoW, typically mined by ASICs using the Blake-256 hash algorithm, for which it is dominant. Decred holders time-lock their funds to purchase tickets. Those tickets are added to a pool of roughly 41,000 tickets, and five tickets are pseudorandomly selected to validate the proof-of-work for each block. If at least 50% of the tickets approve the work of the miner, the block is approved and added to the blockchain.",
   "security_03_headline": "Resistance to Attacks",
