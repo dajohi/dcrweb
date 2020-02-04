@@ -15,7 +15,7 @@
   url: "https://forum.decred.org/threads/testnet-stake-pool-is-live.626/"
   date: "2016-02-12"
 -
-  title: "First PoS votes are included in block 4096"
+  title: "First PoS votes included in block 4096"
   url: "https://explorer.dcrdata.org/block/00000000000013722f8e5a8af9cf55492e9237e77d29da98695e65fd13033625"
   date: "2016-02-21"
 -
@@ -35,11 +35,11 @@
   url: "https://blog.decred.org/2017/09/20/On-Chain-Atomic-Swaps/"
   date: "2017-10-19"
 -
-  title: "Politeia is announced"
+  title: "Politeia announced"
   url: "https://blog.decred.org/2017/10/25/Politeia-Proposals-in-a-Timestamped-Filesystem/"
   date: "2017-10-25"
 -
-  title: "DEX proposal is published"
+  title: "DEX proposal published"
   url: "https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/"
   date: "2018-06-09"
 -
