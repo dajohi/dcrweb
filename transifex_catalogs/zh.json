@@ -227,7 +227,7 @@
   "matrix_to_browse_other_available_matrix": "若要浏览其他可用的Matrix客户机和主服务器，请参见<a href=\"https://matrix.org/docs/projects/try-matrix-now.html\">Matrix入门页面</a>。",
   "matrix_matrix_is_a_secure_open": "<p>Matrix是一个安全、开放的消息传递平台，很受Decred承包商的欢迎。在bridge software Matrix的帮助下，用户可以在Slack、Discord其他Decred平台上与用户进行通信。Matrix提供首次登记；注册时不需要任何身份信息或第三方服务。但是，用户需要了解一些功能，如密码重置，电子邮件地址也很必要。有关Matrix的安全特性和可用客户机的更多信息，请参见Matrix项目<a href=\"https://matrix.org/blog/home/\">主页</a>。</p>\n\n\n<p>若要加入Matrix，您需要选择一个客户端和一个主服务器。Matrix支持许多客户机和homeserver，但是对于首次使用的用户，我们推荐最受支持的Matrix客户机Riot和Decred的homeserver。使用Decred homeserver可以更容易地找到Decred聊天室，在ID中添加“mand .org”，并允许在Decred的homeserver与其他homeserver断开连接时继续发送消息。</p>",
   "Page not found": "未找到页面",
-  "Back to home page": "返回主页面"
+  "Back to home page": "返回主页面",
    "adaptability_playbutton": "关于适应性",
   "adaptability_01_headline": "避免被分叉",
   "adaptability_01_text": "加密货币领域会不断面对不同种类的威胁以及新技术的迭代。为了应对这些改变，即使人们的思考方向是一致的，但执行方法可能会有所不同，这意味着会产生大量争执。为了持续的长期发展，Decred设计了一种具备强适应性的方法。无论在意见冲突、Bug修复或是新技术部署等等任何情况下，Decred都能促进正式协议的达成，从而避免具有争议性的硬分叉同时也维护了社区的统一。",
